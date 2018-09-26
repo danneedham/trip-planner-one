@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+  
+body {
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #C1B5AD;
+}
+
+#map {
+    height: 100vh;
+    width: 100vw;
+}
+
+.headerContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    padding: 100px 0;
+
+    background-color: salmon;
+
+}
